@@ -53,8 +53,7 @@ The outputs are then combined and summarized into **three possible health issues
 
 1. **Clone the repo:**
    ```bash
-   git clone https://github.com/ahmadvh/AI-Agents-for-Medical-Diagnostics.git
-   cd AI-Agents-for-Medical-Diagnostics
+   https://github.com/bhanuprasaddogiparthy/AI-Agents-for-medical-diagnostics.git
    ```
 2. **Create a virtual environment and install dependencies:**
     ```bash
